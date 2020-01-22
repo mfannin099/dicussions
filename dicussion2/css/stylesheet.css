@@ -1,0 +1,12 @@
+h1{
+  text-align: center;
+  color: blueviolet;
+}
+h2{
+    color:darkcyan;
+    text-shadow: 5px 5px 2px darkgoldenrod;
+}
+li{
+  list-style-image: url('../images/download.png');
+
+}
